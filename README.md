@@ -12,6 +12,6 @@ I found that Urban cities were around the highest grossing in regards to fares c
 
 Summary 
 
-Rural cities based on the data shows the least amount of total rides, compared to total rides through the period. Although the fare per ride is the highest and the average per driver.  The urban are while they have the most rides and drivers, the average fare per ride and driver is the lowest. When looking at the visualization is shows peak time  for making the most money is around the end February beginning of March. 
+Rural cities based on the data shows the least amount of total rides ( 125 ) , compared to total rides ( 2375)  through the period. Although the fare per ride ( $34.62)  is the highest and the average per driver  ($55.49); the urban are while they have the most rides (1625) and drivers (2405), the average fare per ride ($24.53) and driver ($16.57) is the lowest. When looking at the visualization is shows peak time  for making the most money is around the end February beginning of March. So if I were to manke any suggestions it would be to the rurual areas. There seems to be an opportunity for drivers just based off the ratio of rides to driver and the avg. fare be driver pay.
 
 ![Pivot Chart by CIty](https://user-images.githubusercontent.com/119356389/214988797-0fe08a9a-bd57-4514-94d3-6f39887416f8.png)
