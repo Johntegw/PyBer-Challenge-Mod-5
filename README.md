@@ -8,7 +8,7 @@ Results
 
 I found that Urban cities were around the highest grossing in regards to fares collected. It also has the most drivers and highest rides per capita. The rural area has shown the highest avg. fare per ride and avg. fare per driver. 
 
-![image](https://user-images.githubusercontent.com/119356389/214988497-26a41521-de6e-4a4e-9498-82f782d8076a.png)
+![image](https://user-images.githubusercontent.com/119356389/214989132-33b5ec1b-26b5-4ce5-8b6f-c48d67df3603.png)
 
 Summary 
 
